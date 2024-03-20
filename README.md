@@ -1,3 +1,3 @@
 # **SampleDocs**
-_I am Anju_
+_This is a test document in Git!_
 > documents
