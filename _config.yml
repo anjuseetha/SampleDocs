@@ -1,4 +1,4 @@
-title: new theme
+title: newtheme
 description: Architect is a theme for GitHub Pages.
 name: Mysite
-theme: jekyll-theme-architect
+remote_theme: architect
