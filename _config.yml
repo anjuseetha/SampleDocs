@@ -1,2 +1,4 @@
-name: My Site
-theme: jekyll-theme-tactile
+title: new theme
+description: Architect is a theme for GitHub Pages.
+name: Mysite
+theme: jekyll-theme-architect
