@@ -1,4 +1,9 @@
-title: newtheme
-description: Architect is a theme for GitHub Pages.
-name: Mysite
-remote_theme: architect
+# Site settings
+title: Great New Blog Title
+author:
+  name: Evan Will
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
