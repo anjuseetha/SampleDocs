@@ -1,2 +1,5 @@
-# **TEST_HTML**
-_This is a test html in Git!_
+---
+layout: home 
+---
+
+Welcome to my new blog!
